@@ -1,88 +1,57 @@
-<div align="center">
-
-<br/>
-
-# Hi, I'm Ulugbek 👋
-
-### Frontend Developer — React & Next.js
-
-<br/>
-
-> *I craft fast, clean and minimal web experiences.*
-> *Based in Uzbekistan 🇺🇿 · Open for freelance.*
-
-<br/>
-
----
-
-<br/>
-
-## Tech Stack
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ulugbek%20Gofurjonov&fontSize=50&fontColor=00ff88&animation=twinkling&fontAlignY=60&desc=Frontend%20Developer&descSize=18&descAlignY=78&descFontColor=aaaaaa"/>
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=500&lines=%3E+Initializing+portfolio...;%3E+Loading+React+%26+Next.js...;%3E+Status%3A+Open+for+freelance+%F0%9F%9F%A2" />
 
 </div>
 
 <br/>
 
----
+<div align="center">
 
-<br/>
+```
+╔══════════════════════════════════════════════════╗
+║  const dev = {                                   ║
+║    name    : "Ulugbek Gofurjonov",               ║
+║    role    : "Frontend Developer",               ║
+║    location: "Uzbekistan 🇺🇿",                   ║
+║    stack   : ["React", "Next.js", "Tailwind"],   ║
+║    status  : "Open for freelance 💼",            ║
+║  }                                               ║
+╚══════════════════════════════════════════════════╝
+```
 
-## Stats
+</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ulugbekgofurjonov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=555555&icon_color=38BDF8&include_all_commits=true&count_private=true&hide_rank=false" height="155"/>
+[![skillicons](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark&perline=6)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ulugbekgofurjonov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=aaaaaa&icon_color=00ff88&include_all_commits=true&count_private=true" height="150"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=ulugbekgofurjonov&hide_border=true&background=0d1117&stroke=ffffff08&ring=38BDF8&fire=38BDF8&currStreakLabel=555555&sideLabels=555555&dates=333333&currStreakNum=ffffff&sideNums=ffffff" height="155"/>
+<img src="https://streak-stats.demolab.com?user=ulugbekgofurjonov&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555&currStreakNum=00ff88&sideNums=ffffff&stroke=00ff8820" height="150"/>
 
 </div>
-
-<br/>
-
----
-
-<br/>
-
-## Let's Connect
 
 <br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/ulugbek--gofurjonov.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ulugbek-gofurjonov.vercel.app)
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ulugbekgofurjonov001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ulugbek-gofurjonov)
-[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/UlugbekGofurjonov)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/gofurrjonov)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=00ff88)](https://ulugbek-gofurjonov.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:ulugbekgofurjonov001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://linkedin.com/in/ulugbek-gofurjonov)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/UlugbekGofurjonov)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff88)](https://instagram.com/gofurrjonov)
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=2000&color=333333&center=true&vCenter=true&width=400&lines=Building+the+web%2C+one+component+at+a+time." />
-</div>
-
-<br/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
