@@ -66,7 +66,7 @@ const ulugbek: Developer = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ulugbekgofurjonov11-cpu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" alt="stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ulugbekgofurjonov11-cpu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true" height="150" alt="stats"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=ulugbekgofurjonov11-cpu&hide_border=true&background=0d1117&stroke=ffffff08&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" height="150" alt="streak"/>
 
@@ -88,17 +88,17 @@ const ulugbek: Developer = {
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/ulugbek--gofurjonov.vercel.app-161b22?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://ulugbek-gofurjonov.vercel.app)
+[![Portfolio](https://img.shields.io/badge/ulugbek--gofurjonov.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://ulugbek-gofurjonov.vercel.app)
 
 <br/><br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:ulugbekgofurjonov001@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:ulugbekgofurjonov001@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/ulugbek-gofurjonov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/ulugbek-gofurjonov)
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/UlugbekGofurjonov)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/UlugbekGofurjonov)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/gofurrjonov)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/gofurrjonov)
 
 </div>
 
