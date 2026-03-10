@@ -1,24 +1,28 @@
 <div align="center">
 
 <br/>
+<br/>
 
-# Ulugbek Gofurjonov
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=%3C+Frontend+Developer+%2F%3E+%C2%B7+React+%26+Next.js+%C2%B7+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;Open+for+Freelance+%F0%9F%92%BC" alt="typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=52&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ulugbek+Gofurjonov" alt="name"/>
 
 <br/>
 
-![visitors](https://komarev.com/ghpvc/?username=ulugbekgofurjonov11-cpu&style=flat-square&color=ffffff&label=visitors&labelColor=0d0d0d)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=%3C+Frontend+Developer+%2F%3E+%E2%80%94+React+%26+Next.js+%E2%80%94+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;Building+clean%2C+fast+%26+scalable+web+experiences;Open+for+freelance+opportunities+%F0%9F%92%BC" alt="subtitle"/>
+
+<br/>
+
+![](https://img.shields.io/badge/%E2%97%8F%20Available-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0d0d0d&logo=circle&logoColor=22c55e)
+&nbsp;
+![visitors](https://komarev.com/ghpvc/?username=ulugbekgofurjonov11-cpu&style=flat-square&color=333333&label=views&labelColor=0d0d0d)
+
+<br/>
+<br/>
 
 </div>
-
-<br/>
 
 ---
 
 <br/>
-
-## About Me
 
 ```typescript
 const ulugbek: Developer = {
@@ -38,9 +42,12 @@ const ulugbek: Developer = {
 
 <br/>
 
-## Tech Stack
-
 <div align="center">
+
+<sub>T E C H &nbsp; S T A C K</sub>
+
+<br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,github,vercel&theme=dark&perline=8" alt="skills"/>
 
@@ -52,17 +59,21 @@ const ulugbek: Developer = {
 
 <br/>
 
-## GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ulugbekgofurjonov11-cpu&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true" height="155" alt="stats"/>
+<sub>G I T H U B &nbsp; S T A T S</sub>
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ulugbekgofurjonov11-cpu&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=555555&icon_color=ffffff&include_all_commits=true&count_private=true&hide_rank=false" height="150" alt="stats"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=ulugbekgofurjonov11-cpu&hide_border=true&background=0d0d0d&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&dates=444444&currStreakNum=ffffff&sideNums=ffffff" height="155" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=ulugbekgofurjonov11-cpu&hide_border=true&background=0d0d0d&stroke=ffffff08&ring=ffffff&fire=ffffff&currStreakLabel=555555&sideLabels=555555&dates=333333&currStreakNum=ffffff&sideNums=ffffff" height="150" alt="streak"/>
 
-<br/><br/>
+<br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ulugbekgofurjonov11-cpu&bg_color=0d0d0d&color=888888&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=6" width="94%" alt="graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ulugbekgofurjonov11-cpu&bg_color=0d0d0d&color=555555&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&radius=6" width="94%" alt="graph"/>
 
 </div>
 
@@ -72,13 +83,17 @@ const ulugbek: Developer = {
 
 <br/>
 
-## Contact
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://ulugbek-gofurjonov.vercel.app)
+<sub>C O N T A C T</sub>
 
-<br/><br/>
+<br/>
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/ulugbek--gofurjonov.vercel.app-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://ulugbek-gofurjonov.vercel.app)
+
+<br/>
+<br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:ulugbekgofurjonov001@gmail.com)
 &nbsp;
@@ -98,12 +113,14 @@ const ulugbek: Developer = {
 
 <div align="center">
 
-[![Follow](https://img.shields.io/github/followers/ulugbekgofurjonov11-cpu?label=Follow+%40ulugbekgofurjonov&style=for-the-badge&color=ffffff&labelColor=0d0d0d&logo=github&logoColor=ffffff)](https://github.com/ulugbekgofurjonov11-cpu)
+[![Follow](https://img.shields.io/github/followers/ulugbekgofurjonov11-cpu?label=%E2%97%8F+Follow+%40ulugbekgofurjonov&style=for-the-badge&color=ffffff&labelColor=0d0d0d&logo=github&logoColor=ffffff)](https://github.com/ulugbekgofurjonov11-cpu)
 
-<br/><br/>
+<br/>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=11&duration=4000&pause=2000&color=333333&center=true&vCenter=true&width=400&lines=%3E+Thanks+for+visiting+%F0%9F%99%8F;%3E+Let%27s+build+something+amazing+%F0%9F%9A%80" alt="footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=11&duration=4000&pause=2000&color=2a2a2a&center=true&vCenter=true&width=420&lines=%3E+Thanks+for+visiting+%F0%9F%99%8F;%3E+Let%27s+build+something+great+%F0%9F%9A%80" alt="footer"/>
 
-<br/><br/>
+<br/>
+<br/>
 
 </div>
