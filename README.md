@@ -88,7 +88,7 @@ const ulugbek: Developer = {
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/ulugbek--gofurjonov-000000?style=for-the-badge&logo=safari&logoColor=ffffff)](https://ulugbek-gofurjonov.vercel.app)
+[![Portfolio](https://img.shields.io/badge/ulugbek--gofurjonov-ffffff?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://ulugbek-gofurjonov.vercel.app)
 
 <br/><br/>
 
