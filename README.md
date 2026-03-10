@@ -3,17 +3,17 @@
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=52&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ulugbek+Gofurjonov" alt="name"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=48&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&lines=Ulugbek+Gofurjonov" alt="name"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=%3C+Frontend+Developer+%2F%3E+%E2%80%94+React+%26+Next.js+%E2%80%94+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;Building+clean%2C+fast+%26+scalable+web+experiences;Open+for+freelance+opportunities+%F0%9F%92%BC" alt="subtitle"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=650&lines=%3C+Frontend+Developer+%2F%3E+%E2%80%94+React+%26+Next.js+%E2%80%94+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;Building+clean%2C+fast+%26+scalable+web+experiences;Open+for+freelance+opportunities+%F0%9F%92%BC" alt="subtitle"/>
 
 <br/>
 
-![](https://img.shields.io/badge/%E2%97%8F%20Available-0d0d0d?style=flat-square&color=0d0d0d&labelColor=0d0d0d&logo=circle&logoColor=22c55e)
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available%20for%20Freelance-0d0d0d?style=flat-square&labelColor=0d0d0d&color=0d0d0d&logoColor=white" alt="available"/>
 &nbsp;
-![visitors](https://komarev.com/ghpvc/?username=ulugbekgofurjonov11-cpu&style=flat-square&color=333333&label=views&labelColor=0d0d0d)
+<img src="https://komarev.com/ghpvc/?username=ulugbekgofurjonov11-cpu&style=flat-square&color=333333&label=views&labelColor=0d0d0d" alt="views"/>
 
 <br/>
 <br/>
@@ -44,7 +44,7 @@ const ulugbek: Developer = {
 
 <div align="center">
 
-<sub>T E C H &nbsp; S T A C K</sub>
+<sub>T E C H &nbsp;&nbsp; S T A C K</sub>
 
 <br/>
 <br/>
@@ -61,12 +61,12 @@ const ulugbek: Developer = {
 
 <div align="center">
 
-<sub>G I T H U B &nbsp; S T A T S</sub>
+<sub>G I T H U B &nbsp;&nbsp; S T A T S</sub>
 
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ulugbekgofurjonov11-cpu&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=555555&icon_color=ffffff&include_all_commits=true&count_private=true&hide_rank=false" height="150" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ulugbekgofurjonov11-cpu&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=555555&icon_color=ffffff&include_all_commits=true&count_private=true" height="150" alt="stats"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=ulugbekgofurjonov11-cpu&hide_border=true&background=0d0d0d&stroke=ffffff08&ring=ffffff&fire=ffffff&currStreakLabel=555555&sideLabels=555555&dates=333333&currStreakNum=ffffff&sideNums=ffffff" height="150" alt="streak"/>
 
@@ -113,7 +113,7 @@ const ulugbek: Developer = {
 
 <div align="center">
 
-[![Follow](https://img.shields.io/github/followers/ulugbekgofurjonov11-cpu?label=%E2%97%8F+Follow+%40ulugbekgofurjonov&style=for-the-badge&color=ffffff&labelColor=0d0d0d&logo=github&logoColor=ffffff)](https://github.com/ulugbekgofurjonov11-cpu)
+[![Follow](https://img.shields.io/github/followers/ulugbekgofurjonov11-cpu?label=Follow+%40ulugbekgofurjonov&style=for-the-badge&color=ffffff&labelColor=0d0d0d&logo=github&logoColor=ffffff)](https://github.com/ulugbekgofurjonov11-cpu)
 
 <br/>
 <br/>
