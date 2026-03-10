@@ -3,17 +3,17 @@
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=48&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&lines=Ulugbek+Gofurjonov" alt="name"/>
+# Ulugbek Gofurjonov
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=650&lines=%3C+Frontend+Developer+%2F%3E+%E2%80%94+React+%26+Next.js+%E2%80%94+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;Building+clean%2C+fast+%26+scalable+web+experiences;Open+for+freelance+opportunities+%F0%9F%92%BC" alt="subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=650&lines=%3C+Frontend+Developer+%2F%3E+%E2%80%94+React+%26+Next.js+%E2%80%94+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;Building+clean%2C+fast+%26+scalable+web+experiences;Open+for+freelance+opportunities+%F0%9F%92%BC" alt="subtitle"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available%20for%20Freelance-0d0d0d?style=flat-square&labelColor=0d0d0d&color=0d0d0d&logoColor=white" alt="available"/>
+![available](https://img.shields.io/badge/%F0%9F%9F%A2_Available_for_Freelance-0d0d0d?style=flat-square&labelColor=0d0d0d&color=0d0d0d)
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=ulugbekgofurjonov11-cpu&style=flat-square&color=333333&label=views&labelColor=0d0d0d" alt="views"/>
+![views](https://komarev.com/ghpvc/?username=ulugbekgofurjonov11-cpu&style=flat-square&color=333333&label=views&labelColor=0d0d0d)
 
 <br/>
 <br/>
@@ -118,7 +118,7 @@ const ulugbek: Developer = {
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=11&duration=4000&pause=2000&color=2a2a2a&center=true&vCenter=true&width=420&lines=%3E+Thanks+for+visiting+%F0%9F%99%8F;%3E+Let%27s+build+something+great+%F0%9F%9A%80" alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=4000&pause=2000&color=2a2a2a&center=true&vCenter=true&width=420&lines=%3E+Thanks+for+visiting+%F0%9F%99%8F;%3E+Let%27s+build+something+great+%F0%9F%9A%80" alt="footer"/>
 
 <br/>
 <br/>
