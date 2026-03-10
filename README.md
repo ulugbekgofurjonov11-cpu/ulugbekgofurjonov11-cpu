@@ -3,15 +3,17 @@
 <br/>
 <br/>
 
-# Ulugbek Gofurjonov
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=50&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&lines=Ulugbek+Gofurjonov" alt="name"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=400&size=18&duration=1&pause=99999&color=444444&center=true&vCenter=true&width=800&lines=Frontend+Developer" alt="role"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=700&lines=Frontend+Developer+%E2%80%94+React+%26+Next.js+%E2%80%94+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;Building+clean+%26+scalable+web+experiences+%E2%9C%A8;Open+for+freelance+opportunities+%F0%9F%92%BC" alt="subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=700&lines=React+%26+Next.js+%E2%80%94+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF+%E2%80%94+Open+for+Freelance+%F0%9F%92%BC;Building+clean+%26+scalable+web+experiences+%E2%9C%A8" alt="subtitle"/>
 
 <br/>
 
-![available](https://img.shields.io/badge/%F0%9F%9F%A2_Available_for_Freelance-0d0d0d?style=flat-square&labelColor=161b22&color=161b22)
+![available](https://img.shields.io/badge/%F0%9F%9F%A2_Available_for_Freelance-161b22?style=flat-square&labelColor=161b22&color=161b22)
 &nbsp;
 ![views](https://komarev.com/ghpvc/?username=ulugbekgofurjonov11-cpu&style=flat-square&color=333333&label=views&labelColor=161b22)
 
@@ -64,7 +66,7 @@ const ulugbek: Developer = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ulugbekgofurjonov11-cpu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=555555&icon_color=ffffff&include_all_commits=true&count_private=true" height="150" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ulugbekgofurjonov11-cpu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=555555&icon_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" alt="stats"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=ulugbekgofurjonov11-cpu&hide_border=true&background=0d1117&stroke=ffffff08&ring=ffffff&fire=ffffff&currStreakLabel=555555&sideLabels=555555&dates=333333&currStreakNum=ffffff&sideNums=ffffff" height="150" alt="streak"/>
 
