@@ -13,7 +13,7 @@
 
 <br/>
 
-![available](https://img.shields.io/badge/%F0%9F%9F%A2_Available_for_Freelance-161b22?style=flat-square&labelColor=161b22&color=161b22)
+![available](https://img.shields.io/badge/%F0%9F%9F%A2_Open_for_Work-161b22?style=flat-square&labelColor=161b22&color=161b22)
 &nbsp;
 ![views](https://komarev.com/ghpvc/?username=ulugbekgofurjonov11-cpu&style=flat-square&color=555555&label=views&labelColor=161b22)
 
