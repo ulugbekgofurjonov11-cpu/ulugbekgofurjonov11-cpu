@@ -88,7 +88,13 @@ const ulugbek: Developer = {
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/ulugbek--gofurjonov.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://ulugbek-gofurjonov.vercel.app)
+[![Portfolio](https://img.shields.io/badge/ulugbek--gofurjonov-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://ulugbek-gofurjonov.vercel.app)
+
+<br/>
+
+<a href="https://ulugbek-gofurjonov.vercel.app">
+  <img src="https://avatars.githubusercontent.com/ulugbekgofurjonov11-cpu" width="80" style="border-radius:50%"/>
+</a>
 
 <br/><br/>
 
