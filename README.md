@@ -5,17 +5,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=50&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&lines=Ulugbek+Gofurjonov" alt="name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=400&size=18&duration=1&pause=99999&color=444444&center=true&vCenter=true&width=800&lines=Frontend+Developer" alt="role"/>
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=400&size=18&duration=1&pause=99999&color=888888&center=true&vCenter=true&width=800&lines=%3C+Frontend+Developer+%2F%3E" alt="role"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=700&lines=React+%26+Next.js+%E2%80%94+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF+%E2%80%94+Open+for+Freelance+%F0%9F%92%BC;Building+clean+%26+scalable+web+experiences+%E2%9C%A8" alt="subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=700&lines=React+%26+Next.js+%E2%80%94+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF+%E2%80%94+Open+for+Freelance+%F0%9F%92%BC;Building+clean+%26+scalable+web+experiences+%E2%9C%A8" alt="subtitle"/>
 
 <br/>
 
 ![available](https://img.shields.io/badge/%F0%9F%9F%A2_Available_for_Freelance-161b22?style=flat-square&labelColor=161b22&color=161b22)
 &nbsp;
-![views](https://komarev.com/ghpvc/?username=ulugbekgofurjonov11-cpu&style=flat-square&color=333333&label=views&labelColor=161b22)
+![views](https://komarev.com/ghpvc/?username=ulugbekgofurjonov11-cpu&style=flat-square&color=555555&label=views&labelColor=161b22)
 
 <br/>
 <br/>
@@ -66,13 +66,13 @@ const ulugbek: Developer = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ulugbekgofurjonov11-cpu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=555555&icon_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ulugbekgofurjonov11-cpu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" alt="stats"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=ulugbekgofurjonov11-cpu&hide_border=true&background=0d1117&stroke=ffffff08&ring=ffffff&fire=ffffff&currStreakLabel=555555&sideLabels=555555&dates=333333&currStreakNum=ffffff&sideNums=ffffff" height="150" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=ulugbekgofurjonov11-cpu&hide_border=true&background=0d1117&stroke=ffffff08&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" height="150" alt="streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ulugbekgofurjonov11-cpu&bg_color=0d1117&color=555555&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&radius=6" width="94%" alt="graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ulugbekgofurjonov11-cpu&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&radius=6" width="94%" alt="graph"/>
 
 </div>
 
@@ -114,7 +114,7 @@ const ulugbek: Developer = {
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=4000&pause=2000&color=2a2a2a&center=true&vCenter=true&width=420&lines=%3E+Thanks+for+visiting+%F0%9F%99%8F;%3E+Let%27s+build+something+great+%F0%9F%9A%80" alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=4000&pause=2000&color=555555&center=true&vCenter=true&width=420&lines=%3E+Thanks+for+visiting+%F0%9F%99%8F;%3E+Let%27s+build+something+great+%F0%9F%9A%80" alt="footer"/>
 
 <br/><br/>
 
